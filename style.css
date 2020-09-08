@@ -7,14 +7,14 @@ body {
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
-    background-color: #dddddd;
-    border-color: #eeeeee;
+    background-color: #2C2F33;
+    border-color: #23272A;
     border-left-style: solid;
     border-right-style: solid;
     border-width: 20px;
 }
 p {
-    color: #444444;
+    color: #7289DA;
     font-family: 'Roboto', sans-serif;
     font-size: 16pt;
     line-height: 1;
